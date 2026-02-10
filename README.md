@@ -42,15 +42,17 @@ I consider myself an enthusiastic collaborator and a firm believer that the best
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drianC4&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4drianC4&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
+
+### 🏆 Achievements
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4drianC4&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="4drianC4's Trophies" />
+</div>
+
 
 <p align="center">
   <em>"Software is an art that is perfected with every commit."</em>
