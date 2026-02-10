@@ -42,11 +42,14 @@ I consider myself an enthusiastic collaborator and a firm believer that the best
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=4drianC4&theme=dracula&no-frame=true&column=7" alt="4drianC4 trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4drianC4&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4drianC4&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <p align="center">
