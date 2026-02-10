@@ -44,8 +44,11 @@ I consider myself an enthusiastic collaborator and a firm believer that the best
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4drianC4&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4drianC4&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drianC4&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=4drianC4&layout=compact&theme=dracula&hide_border=true&langs_count=6)
+
 </div>
 
 <p align="center">
