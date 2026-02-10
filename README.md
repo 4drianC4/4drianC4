@@ -44,11 +44,9 @@ I consider myself an enthusiastic collaborator and a firm believer that the best
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4drianC4&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=4drianC4&layout=compact&theme=dracula&hide_border=true&langs_count=6)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=4drianC4&theme=dracula&no-frame=true&column=7" alt="4drianC4 trophies" />
+  </a>
 </div>
 
 <p align="center">
