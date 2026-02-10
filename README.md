@@ -4,8 +4,8 @@
   
   <p>
     <a href="https://www.linkedin.com/in/adrian-c-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-    <a href="https://www.youtube.com/@adriancamara1980"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
-    <a href="https://www.instagram.com/adr1.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+    <a href="https://www.youtube.com/@adriancamara2000"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+    <a href="https://www.instagram.com/4dr14n.rcr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
   </p>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=4drianC4.4drianC4&left_color=chocolate&right_color=mediumpurple&left_text=Visitor%20No." />
